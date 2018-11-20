@@ -1,2 +1,2 @@
 # Test
-This is for test
+This is not only for test, but also for practice.
